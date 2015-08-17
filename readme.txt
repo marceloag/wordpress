@@ -1,4 +1,6 @@
 === Plugin Name ===
+
+YES
 Contributors: Twitter, niallkennedy
 Tags: twitter, embedded tweet, twitter video, twitter cards, tweet button, follow button, twitter analytics, twitter ads
 Requires at least: 3.9
